@@ -11,8 +11,7 @@
 <div align="center">
 </div>
 <br>
--  ✨ I create game mechanics and interactive worlds in Roblox.
--  🎨 I love experimenting with Lua and the possibilities of Roblox Studio.
+I'm a Roblox developer, and my main passion is creating immersive and terrifying horror worlds. I love experimenting with Lua and the capabilities of Roblox Studio, striving to bring a tense atmosphere and unpredictable events to my games. I'm currently actively working on the game "New house" in Roblox Studio, and I'm eagerly looking forward to sharing it with the community. I enjoy creating both horror and indie projects and invite all thrill-seekers to follow my progress and prepare to immerse themselves in my worlds!
 
 <br>
 
