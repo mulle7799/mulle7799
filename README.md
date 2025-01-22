@@ -23,6 +23,7 @@ I'm a Roblox developer, and my main passion is creating immersive and terrifying
   ![HTML](https://cdn.iconscout.com/icon/free/png-512/free-html-logo-icon-download-in-svg-png-gif-file-formats--brand-company-business-brands-pack-logos-icons-2284975.png?f=webp&w=256) 
   ![CSS](https://cdn.iconscout.com/icon/free/png-512/free-css-logo-icon-download-in-svg-png-gif-file-formats--logos-pack-icons-722685.png?f=webp&w=256)
   ![Markdown](https://cdn.iconscout.com/icon/free/png-512/free-markdown-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-2364930.png?f=webp&w=256)
+  ![Python](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png)
 
 ---
 
