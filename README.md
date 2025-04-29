@@ -27,7 +27,7 @@ I'm a Roblox developer, and my main passion is creating immersive and terrifying
   ![Java](https://cdn.iconscout.com/icon/free/png-512/free-java-logo-icon-download-in-svg-png-gif-file-formats--programming-language-pack-logos-icons-1174952.png?f=webp&w=256)
    ![PHP](https://cdn-icons-png.flaticon.com/512/15474/15474204.png)
     ![react](https://cdn-icons-png.flaticon.com/128/10826/10826338.png)
-     ![TypeScript](https://cdn-icons-png.flaticon.com/128/9277/9277330.png)
+     ![TypeScript](https://cdn-icons-png.flaticon.com/128/5968/5968381.png)
 
 ---
 
